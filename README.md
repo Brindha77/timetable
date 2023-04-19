@@ -1,16 +1,25 @@
 # Experiment_Time_Table
 
-## AIM
+## AIM :
+
 To Write a html webpage page to display your timetable.
 
-# ALGORITHM
-### STEP 1
+# ALGORITHM :
+
+### STEP 1 :
+
 create a simple table using table tag
-### STEP 2
+
+### STEP 2 :
+
 Add header row using th tag
-### STEP 3
+
+### STEP 3 :
+
 Add your timetable
+
 ### STEP 4
+
 Execute the program
 
 # CODE
@@ -112,7 +121,13 @@ Execute the program
 
 
 
-# OUPUT
+
+
+
+
+
+
+# OUTPUT
 ![timetable](https://user-images.githubusercontent.com/118889143/232964764-6ae3d4d7-9a57-49e2-b34d-9075bb40b964.png)
 
 
