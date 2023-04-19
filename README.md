@@ -110,11 +110,18 @@ Execute the program
 </html>
 ```
 
+
+
 # OUPUT
 ![timetable](https://user-images.githubusercontent.com/118889143/232964764-6ae3d4d7-9a57-49e2-b34d-9075bb40b964.png)
 
+
+
+
 # HTML VALIDATOR
 ![html validator](https://user-images.githubusercontent.com/118889143/232964880-9cfb7d6e-d617-4b2f-93f7-5b1f78bf723b.png)
+
+
 
 ## RESULT:
 
