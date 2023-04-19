@@ -1,6 +1,6 @@
 # Experiment_Time_Table
 
-## AIM :
+# AIM :
 
 To Write a html webpage page to display your timetable.
 
@@ -36,7 +36,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - SAI SATHYA V (22008626)</b></caption>
+<caption><b>SLOT TIME TABLE - BRINDHA R  (212222230023)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -120,15 +120,13 @@ Execute the program
 </html>
 ```
 
-
-
 # OUTPUT :
 ![timetable](https://user-images.githubusercontent.com/118889143/232964764-6ae3d4d7-9a57-49e2-b34d-9075bb40b964.png)
 
 
-# HTML VALIDATOR
+## HTML VALIDATOR :
 ![html validator](https://user-images.githubusercontent.com/118889143/232964880-9cfb7d6e-d617-4b2f-93f7-5b1f78bf723b.png)
 
-## RESULT:
+# RESULT :
 
 Thus the program can be runned successfully
